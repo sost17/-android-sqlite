@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">生词本</string>
+
+    <string name="shengciben">生词本</string>
+    <string name="inster_word">添加生词</string>
+    <string name="list_word">查看生词本</string>
+</resources>
